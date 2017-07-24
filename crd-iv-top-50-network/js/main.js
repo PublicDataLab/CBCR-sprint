@@ -137,7 +137,7 @@ function setupGUI(config) {
 	$("#title").html("<h2>"+config.text.title+"</h2>");
 
 	// #titletext
-	$("#titletext").html(config.text.intro);
+	//$("#titletext").html(config.text.intro);
 
 	// More information
 	if (config.text.more) {
