@@ -205,18 +205,8 @@ display:inline-block;
 	display:none;
 }
 
-#oii {
-width: 227px;
-height: 56px;
-background-image: url('../images/oii_text.png');
-background-repeat: no-repeat;
-display:inline-block;
-margin-right:10px;
-
-}
-
-#oii span {
-	display:none;
+img#pdl-logo {
+	height:100px;
 }
 
 #maintitle {
